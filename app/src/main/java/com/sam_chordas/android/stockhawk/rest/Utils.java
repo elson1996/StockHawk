@@ -25,7 +25,7 @@ public class Utils {
     private static final String KEY_RESULTS = "results";
     private static final String KEY_QUOTE = "quote";
     private static final String KEY_CHANGE = "Change";
-    private static final String KEY_CHANGE_PERCENTAGE = "ChangeinPercent";
+    private static final String KEY_CHANGE_PERCENTAGE = "ChangeInPercent";
     private static final String KEY_BID = "Bid";
 
   public static ArrayList quoteJsonToContentVals(String JSON){
